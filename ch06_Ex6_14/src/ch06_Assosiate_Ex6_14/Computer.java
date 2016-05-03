@@ -1,4 +1,4 @@
-package ch06_Ex6_14;
+package ch06_Assosiate_Ex6_14;
 
 public class Computer {
 	private int no;
